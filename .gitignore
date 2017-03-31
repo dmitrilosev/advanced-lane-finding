@@ -2,3 +2,5 @@
 !lane_finding_project_video.mp4
 test_images/
 camera_cal/
+.*/
+*.swp
